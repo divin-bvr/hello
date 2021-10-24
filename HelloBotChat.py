@@ -11,6 +11,13 @@ print(NewNameBot+": What is your name again?")
 Myname= input("Me: ")
 print(NewNameBot+": I am happy to know you "+Myname+" !...")
 print(NewNameBot+": "+Myname+" It a good name just !")
+print(NewNameBot+": "+Myname+", what do you like?")
+X = input(Myname+" I like     ")
+print(NewNameBot+": I like "+X+", too!")
+print(NewNameBot+": "+Myname+", what is your favorite color?")
+
+
+
 
 
 
