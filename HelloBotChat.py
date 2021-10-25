@@ -15,6 +15,10 @@ print(NewNameBot+": "+Myname+", what do you like?")
 X = input(Myname+" I like     ")
 print(NewNameBot+": I like "+X+", too!")
 print(NewNameBot+": "+Myname+", what is your favorite color?")
+Color=input(Myname+": I am fun of  ")
+print(NewNameBot+ ": me too I like" + Color+ " too")
+print(NewNameBot+ ": It was a please to have a little talk with you "+Myname)
+print(NewNameBot+ ": For further information we will contact you soon")
 
 
 
