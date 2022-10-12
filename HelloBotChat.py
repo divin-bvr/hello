@@ -10,7 +10,7 @@ print(NewNameBot+": It is a nice name")
 print(NewNameBot+": What is your name again?")
 Myname= input("Me: ")
 print(NewNameBot+": I am happy to know you "+Myname+" !...")
-print(NewNameBot+": "+Myname+" It a good name just !")
+print(NewNameBot+": "+Myname+" It a good name just !...")
 
 
 
